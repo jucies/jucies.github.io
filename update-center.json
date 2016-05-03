@@ -1,3 +1,349 @@
 updateCenter.post(
-{"updateCenterVersion":1,"id":"jucies","plugins":{"github-pullrequest":{"excerpt":"","url":"https://jitpack.io/com/github/jenkinsci/github-integration-plugin/github-pullrequest-0.0.1-beta14/github-integration-plugin-github-pullrequest-0.0.1-beta14.hpi","releaseTimestamp":"2016-04-11T10:02:14.00Z","buildDate":"Apr 11, 2016","version":"0.0.1-beta14","title":"GitHub Pull Request Plugin","wiki":"https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Pull+Request+Plugin","requiredCore":"1.609.3","builtBy":"jitpack","name":"github-pullrequest","group":"org.jenkins-ci.plugins","dependencies":[{"name":"job-dsl","version":"1.38","optional":true},{"name":"email-ext","version":"2.38.2","optional":true},{"name":"github","version":"1.14.0","optional":false},{"name":"token-macro","version":"1.10","optional":true},{"name":"block-queued-job","version":"0.1.0","optional":true},{"name":"github-api","version":"1.69","optional":false}],"developers":[{"developerId":"KostyaSha","email":"","name":"Kanstantsin Shautsou"}]},"jucies":{"excerpt":"","url":"https://jitpack.io/com/github/jucies/jucies-plugin/0.1.1/jucies-plugin-0.1.1.hpi","releaseTimestamp":"2016-04-18T18:23:56.00Z","buildDate":"Apr 18, 2016","version":"0.1.1","title":"Jucies update center plugin","wiki":"https://github.com/jucies/releases","name":"jucies","group":"org.jenkins-ci.plugins","dependencies":[],"developers":[{"developerId":"bsideup","email":"bsideup@gmail.com","name":"Sergei Egorov"}]},"pipeline-view":{"excerpt":"","url":"https://jitpack.io/com/github/jenkinsci/pipeline-view-plugin/0.1.0/pipeline-view-plugin-0.1.0.hpi","releaseTimestamp":"2016-04-19T08:18:52.00Z","buildDate":"Apr 19, 2016","version":"0.1.0","title":"Pipeline visualization plugin","wiki":"https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+View+Plugin","name":"pipeline-view","group":"org.jenkins-ci.plugins","dependencies":[{"name":"workflow-api","version":"1.14","optional":false},{"name":"workflow-cps","version":"1.14","optional":false},{"name":"workflow-job","version":"1.14","optional":false},{"name":"workflow-support","version":"1.14","optional":false},{"name":"workflow-step-api","version":"1.14","optional":false},{"name":"workflow-basic-steps","version":"1.14","optional":false}],"developers":[{"developerId":"bsideup","email":"bsideup@gmail.com","name":"Sergei Egorov"}]},"sample-pipeline-dsl-ext":{"excerpt":"Hello world! <b>My first release!</b>","url":"https://jitpack.io/com/github/jucies/sample-pipeline-dsl-ext-plugin/0.1.0/sample-pipeline-dsl-ext-plugin-0.1.0.hpi","releaseTimestamp":"2016-04-21T17:04:06.00Z","buildDate":"Apr 21, 2016","version":"0.1.0","title":"Jucies sample plugin with Pipeline DSL extension","wiki":"https://github.com/jucies/sample-pipeline-dsl-ext-plugin","name":"sample-pipeline-dsl-ext","group":"com.github.jucies","dependencies":[{"name":"workflow-cps","version":"1.13","optional":false},{"name":"workflow-aggregator","version":"1.13","optional":false}],"developers":[{"developerId":"bsideup","email":"bsideup@gmail.com","name":"Sergei Egorov"}]},"buildgraph-view":{"excerpt":"","url":"https://jitpack.io/com/github/jenkinsci/buildgraph-view/buildgraph-view-1.2/buildgraph-view-buildgraph-view-1.2.hpi","releaseTimestamp":"2016-04-23T09:08:22.00Z","buildDate":"Apr 23, 2016","version":"1.2","title":"buildgraph-view","wiki":"https://wiki.jenkins-ci.org/display/JENKINS/Build+Graph+View+Plugin","requiredCore":"1.565","builtBy":"jitpack","name":"buildgraph-view","group":"org.jenkins-ci.plugins","dependencies":[{"name":"promoted-builds","version":"2.17","optional":true},{"name":"matrix-project","version":"1.0","optional":true},{"name":"parameterized-trigger","version":"2.18","optional":true}],"developers":[{"developerId":"ndeloof","email":"","name":"Nicolas De Loof"},{"developerId":"gregory144","email":"","name":"Greg Gross"}]},"build-name-setter":{"excerpt":"Fix JENKINS-34415 - Fixed bug with broken backward compatibility\r\nFix JENKINS-33687 - Fixed bug with BUILD_DISPLAY_NAME environment variable not updated","url":"https://jitpack.io/com/github/jenkinsci/build-name-setter-plugin/build-name-setter-1.6.5/build-name-setter-plugin-build-name-setter-1.6.5.hpi","releaseTimestamp":"2016-04-24T12:25:26.00Z","buildDate":"Apr 24, 2016","version":"1.6.5","title":"build-name-setter","wiki":"http://wiki.jenkins-ci.org/display/JENKINS/Build+Name+Setter+Plugin","requiredCore":"1.480.3","builtBy":"jitpack","name":"build-name-setter","group":"org.jenkins-ci.plugins","dependencies":[{"name":"token-macro","version":"1.5.1","optional":false}],"developers":[{"developerId":"kohsuke","email":"kkawaguchi@cloudbees.com","name":"Kohsuke Kawaguchi"},{"developerId":"Le0","email":"leomichine@gmail.com","name":"Lev Mishin"}]},"javadoc":{"excerpt":"","url":"https://jitpack.io/com/github/jenkinsci/javadoc-plugin/9f9f795ae0/javadoc-plugin-9f9f795ae0.hpi","releaseTimestamp":"2016-04-27T15:53:30.00Z","buildDate":"Apr 27, 2016","version":"1.4-beta-1","title":"Javadoc Plugin","wiki":"http://wiki.jenkins-ci.org/display/JENKINS/Javadoc+Plugin","requiredCore":"1.577","builtBy":"jitpack","name":"javadoc","group":"org.jenkins-ci.plugins","dependencies":[],"developers":[]},"violation-comments-to-github":{"excerpt":"","url":"https://jitpack.io/com/github/jenkinsci/violation-comments-to-github-plugin/1.10/violation-comments-to-github-plugin-1.10.hpi","releaseTimestamp":"2016-05-02T17:30:06.00Z","buildDate":"May 02, 2016","version":"1.10","title":"Jenkins Violation Comments to GitHub Plugin","wiki":"https://wiki.jenkins-ci.org/display/JENKINS/Violation+Comments+to+GitHub+Plugin","requiredCore":"1.609.3","builtBy":"jitpack","name":"violation-comments-to-github","group":"org.jenkins-ci.plugins","dependencies":[{"name":"maven-plugin","version":"2.9","optional":false}],"developers":[{"developerId":"tomasbjerre","email":"tomas.bjerre85@gmail.com","name":"Tomas Bjerre"}]},"git-changelog":{"excerpt":"","url":"https://jitpack.io/com/github/jenkinsci/git-changelog-plugin/1.22/git-changelog-plugin-1.22.hpi","releaseTimestamp":"2016-05-02T17:30:10.00Z","buildDate":"May 02, 2016","version":"1.22","title":"Git Changelog","wiki":"https://wiki.jenkins-ci.org/display/JENKINS/Git+Changelog+Plugin","requiredCore":"1.609.3","builtBy":"jitpack","name":"git-changelog","group":"de.wellnerbou.jenkins","dependencies":[{"name":"git","version":"2.3.5","optional":false},{"name":"maven-plugin","version":"2.9","optional":false},{"name":"token-macro","version":"1.10","optional":false}],"developers":[{"developerId":"paulwellnerbou","email":"paul@wellnerbou.de","name":"Paul Wellner Bou"},{"developerId":"tomasbjerre","email":"tomas.bjerre85@gmail.com","name":"Tomas Bjerre"}]},"violation-comments-to-stash":{"excerpt":"","url":"https://jitpack.io/com/github/jenkinsci/violation-comments-to-stash-plugin/1.15/violation-comments-to-stash-plugin-1.15.hpi","releaseTimestamp":"2016-05-02T17:58:16.00Z","buildDate":"May 02, 2016","version":"1.15","title":"Jenkins Violation Comments to Bitbucket Server Plugin","wiki":"https://wiki.jenkins-ci.org/display/JENKINS/Violation+Comments+to+Bitbucket+Server+Plugin","requiredCore":"1.609.3","builtBy":"jitpack","name":"violation-comments-to-stash","group":"org.jenkins-ci.plugins","dependencies":[{"name":"maven-plugin","version":"2.9","optional":false},{"name":"violations","version":"0.8.0-alpha-1","optional":false}],"developers":[{"developerId":"tomasbjerre","email":"tomas.bjerre85@gmail.com","name":"Tomas Bjerre"}]}}}
+{
+  "updateCenterVersion": 1,
+  "id": "jucies",
+  "plugins": {
+    "build-name-setter": {
+      "excerpt": "Fix JENKINS-34415 - Fixed bug with broken backward compatibility\r\nFix JENKINS-33687 - Fixed bug with BUILD_DISPLAY_NAME environment variable not updated",
+      "url": "https://jitpack.io/com/github/jenkinsci/build-name-setter-plugin/build-name-setter-1.6.5/build-name-setter-plugin-build-name-setter-1.6.5.hpi",
+      "releaseTimestamp": "2016-04-24T12:25:26.00Z",
+      "buildDate": "Apr 24, 2016",
+      "version": "1.6.5",
+      "title": "build-name-setter",
+      "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Build+Name+Setter+Plugin",
+      "requiredCore": "1.480.3",
+      "builtBy": "jitpack",
+      "name": "build-name-setter",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "token-macro",
+          "version": "1.5.1",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "kohsuke",
+          "email": "kkawaguchi@cloudbees.com",
+          "name": "Kohsuke Kawaguchi"
+        },
+        {
+          "developerId": "Le0",
+          "email": "leomichine@gmail.com",
+          "name": "Lev Mishin"
+        }
+      ]
+    },
+    "buildgraph-view": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jenkinsci/buildgraph-view/buildgraph-view-1.2/buildgraph-view-buildgraph-view-1.2.hpi",
+      "releaseTimestamp": "2016-04-23T09:08:22.00Z",
+      "buildDate": "Apr 23, 2016",
+      "version": "1.2",
+      "title": "buildgraph-view",
+      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Build+Graph+View+Plugin",
+      "requiredCore": "1.565",
+      "builtBy": "jitpack",
+      "name": "buildgraph-view",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "promoted-builds",
+          "version": "2.17",
+          "optional": true
+        },
+        {
+          "name": "matrix-project",
+          "version": "1.0",
+          "optional": true
+        },
+        {
+          "name": "parameterized-trigger",
+          "version": "2.18",
+          "optional": true
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "ndeloof",
+          "email": "",
+          "name": "Nicolas De Loof"
+        },
+        {
+          "developerId": "gregory144",
+          "email": "",
+          "name": "Greg Gross"
+        }
+      ]
+    },
+    "git-changelog": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jenkinsci/git-changelog-plugin/1.22/git-changelog-plugin-1.22.hpi",
+      "releaseTimestamp": "2016-05-02T17:30:10.00Z",
+      "buildDate": "May 02, 2016",
+      "version": "1.22",
+      "title": "Git Changelog",
+      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Git+Changelog+Plugin",
+      "requiredCore": "1.609.3",
+      "builtBy": "jitpack",
+      "name": "git-changelog",
+      "group": "de.wellnerbou.jenkins",
+      "dependencies": [
+        {
+          "name": "git",
+          "version": "2.3.5",
+          "optional": false
+        },
+        {
+          "name": "maven-plugin",
+          "version": "2.9",
+          "optional": false
+        },
+        {
+          "name": "token-macro",
+          "version": "1.10",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "paulwellnerbou",
+          "email": "paul@wellnerbou.de",
+          "name": "Paul Wellner Bou"
+        },
+        {
+          "developerId": "tomasbjerre",
+          "email": "tomas.bjerre85@gmail.com",
+          "name": "Tomas Bjerre"
+        }
+      ]
+    },
+    "github-pullrequest": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jenkinsci/github-integration-plugin/github-pullrequest-0.0.1-beta14/github-integration-plugin-github-pullrequest-0.0.1-beta14.hpi",
+      "releaseTimestamp": "2016-04-11T10:02:14.00Z",
+      "buildDate": "Apr 11, 2016",
+      "version": "0.0.1-beta14",
+      "title": "GitHub Pull Request Plugin",
+      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Pull+Request+Plugin",
+      "requiredCore": "1.609.3",
+      "builtBy": "jitpack",
+      "name": "github-pullrequest",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "job-dsl",
+          "version": "1.38",
+          "optional": true
+        },
+        {
+          "name": "email-ext",
+          "version": "2.38.2",
+          "optional": true
+        },
+        {
+          "name": "github",
+          "version": "1.14.0",
+          "optional": false
+        },
+        {
+          "name": "token-macro",
+          "version": "1.10",
+          "optional": true
+        },
+        {
+          "name": "block-queued-job",
+          "version": "0.1.0",
+          "optional": true
+        },
+        {
+          "name": "github-api",
+          "version": "1.69",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "KostyaSha",
+          "email": "",
+          "name": "Kanstantsin Shautsou"
+        }
+      ]
+    },
+    "javadoc": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jenkinsci/javadoc-plugin/9f9f795ae0/javadoc-plugin-9f9f795ae0.hpi",
+      "releaseTimestamp": "2016-04-27T15:53:30.00Z",
+      "buildDate": "Apr 27, 2016",
+      "version": "1.4-beta-1",
+      "title": "Javadoc Plugin",
+      "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Javadoc+Plugin",
+      "requiredCore": "1.577",
+      "builtBy": "jitpack",
+      "name": "javadoc",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [],
+      "developers": []
+    },
+    "jucies": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jucies/jucies-plugin/0.1.1/jucies-plugin-0.1.1.hpi",
+      "releaseTimestamp": "2016-04-18T18:23:56.00Z",
+      "buildDate": "Apr 18, 2016",
+      "version": "0.1.1",
+      "title": "Jucies update center plugin",
+      "wiki": "https://github.com/jucies/releases",
+      "name": "jucies",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [],
+      "developers": [
+        {
+          "developerId": "bsideup",
+          "email": "bsideup@gmail.com",
+          "name": "Sergei Egorov"
+        }
+      ]
+    },
+    "pipeline-view": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jenkinsci/pipeline-view-plugin/0.1.0/pipeline-view-plugin-0.1.0.hpi",
+      "releaseTimestamp": "2016-04-19T08:18:52.00Z",
+      "buildDate": "Apr 19, 2016",
+      "version": "0.1.0",
+      "title": "Pipeline visualization plugin",
+      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+View+Plugin",
+      "name": "pipeline-view",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "workflow-api",
+          "version": "1.14",
+          "optional": false
+        },
+        {
+          "name": "workflow-cps",
+          "version": "1.14",
+          "optional": false
+        },
+        {
+          "name": "workflow-job",
+          "version": "1.14",
+          "optional": false
+        },
+        {
+          "name": "workflow-support",
+          "version": "1.14",
+          "optional": false
+        },
+        {
+          "name": "workflow-step-api",
+          "version": "1.14",
+          "optional": false
+        },
+        {
+          "name": "workflow-basic-steps",
+          "version": "1.14",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "bsideup",
+          "email": "bsideup@gmail.com",
+          "name": "Sergei Egorov"
+        }
+      ]
+    },
+    "sample-pipeline-dsl-ext": {
+      "excerpt": "Hello world! <b>My first release!</b>",
+      "url": "https://jitpack.io/com/github/jucies/sample-pipeline-dsl-ext-plugin/0.1.0/sample-pipeline-dsl-ext-plugin-0.1.0.hpi",
+      "releaseTimestamp": "2016-04-21T17:04:06.00Z",
+      "buildDate": "Apr 21, 2016",
+      "version": "0.1.0",
+      "title": "Jucies sample plugin with Pipeline DSL extension",
+      "wiki": "https://github.com/jucies/sample-pipeline-dsl-ext-plugin",
+      "name": "sample-pipeline-dsl-ext",
+      "group": "com.github.jucies",
+      "dependencies": [
+        {
+          "name": "workflow-cps",
+          "version": "1.13",
+          "optional": false
+        },
+        {
+          "name": "workflow-aggregator",
+          "version": "1.13",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "bsideup",
+          "email": "bsideup@gmail.com",
+          "name": "Sergei Egorov"
+        }
+      ]
+    },
+    "violation-comments-to-github": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jenkinsci/violation-comments-to-github-plugin/1.10/violation-comments-to-github-plugin-1.10.hpi",
+      "releaseTimestamp": "2016-05-02T17:30:06.00Z",
+      "buildDate": "May 02, 2016",
+      "version": "1.10",
+      "title": "Jenkins Violation Comments to GitHub Plugin",
+      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Violation+Comments+to+GitHub+Plugin",
+      "requiredCore": "1.609.3",
+      "builtBy": "jitpack",
+      "name": "violation-comments-to-github",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "maven-plugin",
+          "version": "2.9",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "tomasbjerre",
+          "email": "tomas.bjerre85@gmail.com",
+          "name": "Tomas Bjerre"
+        }
+      ]
+    },
+    "violation-comments-to-stash": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/jenkinsci/violation-comments-to-stash-plugin/1.15/violation-comments-to-stash-plugin-1.15.hpi",
+      "releaseTimestamp": "2016-05-02T17:58:16.00Z",
+      "buildDate": "May 02, 2016",
+      "version": "1.15",
+      "title": "Jenkins Violation Comments to Bitbucket Server Plugin",
+      "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Violation+Comments+to+Bitbucket+Server+Plugin",
+      "requiredCore": "1.609.3",
+      "builtBy": "jitpack",
+      "name": "violation-comments-to-stash",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "maven-plugin",
+          "version": "2.9",
+          "optional": false
+        },
+        {
+          "name": "violations",
+          "version": "0.8.0-alpha-1",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "tomasbjerre",
+          "email": "tomas.bjerre85@gmail.com",
+          "name": "Tomas Bjerre"
+        }
+      ]
+    }
+  }
+}
 );
