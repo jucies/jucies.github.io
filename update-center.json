@@ -4,7 +4,7 @@ updateCenter.post(
   "id": "jucies",
   "plugins": {
     "build-name-setter": {
-      "excerpt": "Fix JENKINS-34415 - Fixed bug with broken backward compatibility\r\nFix JENKINS-33687 - Fixed bug with BUILD_DISPLAY_NAME environment variable not updated",
+      "excerpt": "",
       "url": "https://jitpack.io/com/github/jenkinsci/build-name-setter-plugin/build-name-setter-1.6.5/build-name-setter-plugin-build-name-setter-1.6.5.hpi",
       "releaseTimestamp": "2016-04-24T12:25:26.00Z",
       "buildDate": "Apr 24, 2016",
@@ -256,7 +256,7 @@ updateCenter.post(
       ]
     },
     "sample-pipeline-dsl-ext": {
-      "excerpt": "Hello world! <b>My first release!</b>",
+      "excerpt": "",
       "url": "https://jitpack.io/com/github/jucies/sample-pipeline-dsl-ext-plugin/0.1.0/sample-pipeline-dsl-ext-plugin-0.1.0.hpi",
       "releaseTimestamp": "2016-04-21T17:04:06.00Z",
       "buildDate": "Apr 21, 2016",
