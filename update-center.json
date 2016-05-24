@@ -131,9 +131,9 @@ updateCenter.post(
     },
     "github-pullrequest": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/jenkinsci/github-integration-plugin/github-pullrequest-0.0.1-beta14/github-integration-plugin-github-pullrequest-0.0.1-beta14.hpi",
-      "releaseTimestamp": "2016-04-11T10:02:14.00Z",
-      "buildDate": "Apr 11, 2016",
+      "url": "https://jitpack.io/com/github/KostyaSha/github-integration-plugin/github-pullrequest-0.0.1-beta14/github-integration-plugin-github-pullrequest-0.0.1-beta14.hpi",
+      "releaseTimestamp": "2016-05-20T08:48:46.00Z",
+      "buildDate": "May 20, 2016",
       "version": "0.0.1-beta14",
       "title": "GitHub Pull Request Plugin",
       "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Pull+Request+Plugin",
@@ -143,8 +143,8 @@ updateCenter.post(
       "group": "org.jenkins-ci.plugins",
       "dependencies": [
         {
-          "name": "job-dsl",
-          "version": "1.38",
+          "name": "block-queued-job",
+          "version": "0.1.0",
           "optional": true
         },
         {
@@ -153,23 +153,23 @@ updateCenter.post(
           "optional": true
         },
         {
-          "name": "github",
-          "version": "1.14.0",
-          "optional": false
-        },
-        {
           "name": "token-macro",
           "version": "1.10",
           "optional": true
         },
         {
-          "name": "block-queued-job",
-          "version": "0.1.0",
+          "name": "github-api",
+          "version": "1.69",
+          "optional": false
+        },
+        {
+          "name": "job-dsl",
+          "version": "1.38",
           "optional": true
         },
         {
-          "name": "github-api",
-          "version": "1.69",
+          "name": "github",
+          "version": "1.14.0",
           "optional": false
         }
       ],
