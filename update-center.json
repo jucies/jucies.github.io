@@ -353,6 +353,58 @@ updateCenter.post(
           "name": "Tomas Bjerre"
         }
       ]
+    },
+    "yet-another-docker": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc14/yet-another-docker-plugin-0.1.0-rc14.hpi",
+      "releaseTimestamp": "2016-06-17T12:16:02.00Z",
+      "buildDate": "Jun 17, 2016",
+      "version": "0.1.0-rc14",
+      "title": "Yet Another Docker Plugin",
+      "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Yet+Another+Docker+Plugin",
+      "requiredCore": "1.625.3",
+      "builtBy": "jitpack",
+      "name": "yet-another-docker",
+      "group": "com.github.kostyasha.yet-another-docker",
+      "dependencies": [
+        {
+          "name": "credentials",
+          "version": "1.24",
+          "optional": false
+        },
+        {
+          "name": "durable-task",
+          "version": "1.3",
+          "optional": false
+        },
+        {
+          "name": "ssh-credentials",
+          "version": "1.11",
+          "optional": true
+        },
+        {
+          "name": "icon-shim",
+          "version": "1.0.3",
+          "optional": false
+        },
+        {
+          "name": "docker-commons",
+          "version": "1.3.1",
+          "optional": false
+        },
+        {
+          "name": "ssh-slaves",
+          "version": "1.10",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "KostyaSha",
+          "email": "",
+          "name": "Kanstantsin Shautsou"
+        }
+      ]
     }
   }
 }
