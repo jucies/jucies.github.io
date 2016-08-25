@@ -356,10 +356,10 @@ updateCenter.post(
     },
     "yet-another-docker": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc20/yet-another-docker-plugin-0.1.0-rc20.hpi",
-      "releaseTimestamp": "2016-08-15T18:59:18.00Z",
-      "buildDate": "Aug 15, 2016",
-      "version": "0.1.0-rc20",
+      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc22/yet-another-docker-plugin-0.1.0-rc22.hpi",
+      "releaseTimestamp": "2016-08-25T09:28:40.00Z",
+      "buildDate": "Aug 25, 2016",
+      "version": "0.1.0-rc22",
       "title": "Yet Another Docker Plugin",
       "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Yet+Another+Docker+Plugin",
       "requiredCore": "1.625.3",
@@ -368,8 +368,8 @@ updateCenter.post(
       "group": "com.github.kostyasha.yet-another-docker",
       "dependencies": [
         {
-          "name": "icon-shim",
-          "version": "1.0.3",
+          "name": "durable-task",
+          "version": "1.3",
           "optional": false
         },
         {
@@ -378,8 +378,8 @@ updateCenter.post(
           "optional": true
         },
         {
-          "name": "durable-task",
-          "version": "1.3",
+          "name": "icon-shim",
+          "version": "1.0.3",
           "optional": false
         },
         {
