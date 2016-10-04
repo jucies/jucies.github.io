@@ -396,10 +396,10 @@ updateCenter.post(
     },
     "yet-another-docker": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc26/yet-another-docker-plugin-0.1.0-rc26.hpi",
-      "releaseTimestamp": "2016-10-02T00:19:20.00Z",
-      "buildDate": "Oct 02, 2016",
-      "version": "0.1.0-rc26",
+      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc27/yet-another-docker-plugin-0.1.0-rc27.hpi",
+      "releaseTimestamp": "2016-10-04T17:53:12.00Z",
+      "buildDate": "Oct 04, 2016",
+      "version": "0.1.0-rc27",
       "title": "Yet Another Docker Plugin",
       "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Yet+Another+Docker+Plugin",
       "requiredCore": "1.625.3",
@@ -410,11 +410,6 @@ updateCenter.post(
         {
           "name": "credentials",
           "version": "2.1.3",
-          "optional": false
-        },
-        {
-          "name": "icon-shim",
-          "version": "1.0.3",
           "optional": false
         },
         {
@@ -435,6 +430,11 @@ updateCenter.post(
         {
           "name": "ssh-slaves",
           "version": "1.10",
+          "optional": false
+        },
+        {
+          "name": "icon-shim",
+          "version": "1.0.3",
           "optional": false
         },
         {
