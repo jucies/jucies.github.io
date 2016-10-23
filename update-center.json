@@ -396,10 +396,10 @@ updateCenter.post(
     },
     "yet-another-docker": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc27/yet-another-docker-plugin-0.1.0-rc27.hpi",
-      "releaseTimestamp": "2016-10-04T17:53:12.00Z",
-      "buildDate": "Oct 04, 2016",
-      "version": "0.1.0-rc27",
+      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc28/yet-another-docker-plugin-0.1.0-rc28.hpi",
+      "releaseTimestamp": "2016-10-23T23:31:22.00Z",
+      "buildDate": "Oct 23, 2016",
+      "version": "0.1.0-rc28",
       "title": "Yet Another Docker Plugin",
       "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Yet+Another+Docker+Plugin",
       "requiredCore": "1.625.3",
@@ -408,8 +408,8 @@ updateCenter.post(
       "group": "com.github.kostyasha.yet-another-docker",
       "dependencies": [
         {
-          "name": "credentials",
-          "version": "2.1.3",
+          "name": "icon-shim",
+          "version": "1.0.3",
           "optional": false
         },
         {
@@ -418,9 +418,19 @@ updateCenter.post(
           "optional": true
         },
         {
+          "name": "credentials",
+          "version": "2.1.3",
+          "optional": false
+        },
+        {
           "name": "durable-task",
           "version": "1.3",
           "optional": false
+        },
+        {
+          "name": "ssh-credentials",
+          "version": "1.11",
+          "optional": true
         },
         {
           "name": "docker-commons",
@@ -431,16 +441,6 @@ updateCenter.post(
           "name": "ssh-slaves",
           "version": "1.10",
           "optional": false
-        },
-        {
-          "name": "icon-shim",
-          "version": "1.0.3",
-          "optional": false
-        },
-        {
-          "name": "ssh-credentials",
-          "version": "1.11",
-          "optional": true
         }
       ],
       "developers": [
