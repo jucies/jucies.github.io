@@ -411,10 +411,10 @@ updateCenter.post(
     },
     "yet-another-docker": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc29/yet-another-docker-plugin-0.1.0-rc29.hpi",
-      "releaseTimestamp": "2016-11-04T23:39:14.00Z",
-      "buildDate": "Nov 04, 2016",
-      "version": "0.1.0-rc29",
+      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc30/yet-another-docker-plugin-0.1.0-rc30.hpi",
+      "releaseTimestamp": "2016-11-24T18:39:38.00Z",
+      "buildDate": "Nov 24, 2016",
+      "version": "0.1.0-rc30",
       "title": "Yet Another Docker Plugin",
       "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Yet+Another+Docker+Plugin",
       "requiredCore": "1.625.3",
@@ -428,13 +428,8 @@ updateCenter.post(
           "optional": false
         },
         {
-          "name": "credentials",
-          "version": "2.1.3",
-          "optional": false
-        },
-        {
-          "name": "durable-task",
-          "version": "1.3",
+          "name": "icon-shim",
+          "version": "1.0.3",
           "optional": false
         },
         {
@@ -443,18 +438,23 @@ updateCenter.post(
           "optional": true
         },
         {
+          "name": "credentials",
+          "version": "2.1.3",
+          "optional": false
+        },
+        {
           "name": "jucies",
           "version": "0.2.0",
           "optional": true
         },
         {
-          "name": "docker-commons",
-          "version": "1.3.1",
+          "name": "durable-task",
+          "version": "1.3",
           "optional": false
         },
         {
-          "name": "icon-shim",
-          "version": "1.0.3",
+          "name": "docker-commons",
+          "version": "1.3.1",
           "optional": false
         }
       ],
