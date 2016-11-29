@@ -171,10 +171,10 @@ updateCenter.post(
     },
     "github-pullrequest": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/KostyaSha/github-integration-plugin/github-pullrequest/0.1.0-rc15/github-pullrequest-0.1.0-rc15.hpi",
-      "releaseTimestamp": "2016-11-22T21:19:24.00Z",
-      "buildDate": "Nov 22, 2016",
-      "version": "0.1.0-rc15",
+      "url": "https://jitpack.io/com/github/KostyaSha/github-integration-plugin/github-pullrequest/0.1.0-rc16/github-pullrequest-0.1.0-rc16.hpi",
+      "releaseTimestamp": "2016-11-29T23:09:20.00Z",
+      "buildDate": "Nov 29, 2016",
+      "version": "0.1.0-rc16",
       "title": "GitHub Integration Plugin",
       "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Integration+Plugin",
       "requiredCore": "1.625.3",
@@ -204,7 +204,7 @@ updateCenter.post(
         },
         {
           "name": "github-api",
-          "version": "1.72",
+          "version": "1.80",
           "optional": false
         },
         {
