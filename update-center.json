@@ -272,10 +272,10 @@ updateCenter.post(
     },
     "pipeline-view": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/jenkinsci/pipeline-view-plugin/0.4.1/pipeline-view-plugin-0.4.1.hpi",
-      "releaseTimestamp": "2017-01-10T20:05:32.00Z",
+      "url": "https://jitpack.io/com/github/jenkinsci/pipeline-view-plugin/0.4.2/pipeline-view-plugin-0.4.2.hpi",
+      "releaseTimestamp": "2017-01-10T20:30:52.00Z",
       "buildDate": "Jan 10, 2017",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "title": "Pipeline visualization plugin",
       "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+View+Plugin",
       "name": "pipeline-view",
