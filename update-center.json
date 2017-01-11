@@ -5,10 +5,10 @@ updateCenter.post(
   "plugins": {
     "aws-ecs-deploy": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/zeroturnaround/aws-ecs-deploy-jenkins-plugin/0.1.1/aws-ecs-deploy-jenkins-plugin-0.1.1.hpi",
-      "releaseTimestamp": "2016-09-09T09:16:40.00Z",
-      "buildDate": "Sep 09, 2016",
-      "version": "0.1.1",
+      "url": "https://jitpack.io/com/github/zeroturnaround/aws-ecs-deploy-jenkins-plugin/0.2.1/aws-ecs-deploy-jenkins-plugin-0.2.1.hpi",
+      "releaseTimestamp": "2017-01-11T12:45:38.00Z",
+      "buildDate": "Jan 11, 2017",
+      "version": "0.2.1",
       "title": "AWS Elastic Container Service deployment plugin",
       "wiki": "https://github.com/zeroturnaround/aws-ecs-deploy-jenkins-plugin",
       "name": "aws-ecs-deploy",
@@ -21,7 +21,7 @@ updateCenter.post(
         },
         {
           "name": "aws-java-sdk",
-          "version": "1.10.16",
+          "version": "1.11.68",
           "optional": false
         },
         {
