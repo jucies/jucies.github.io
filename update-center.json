@@ -3,6 +3,46 @@ updateCenter.post(
   "updateCenterVersion": 1,
   "id": "jucies",
   "plugins": {
+    "aws-ecs-deploy": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/zeroturnaround/aws-ecs-deploy-jenkins-plugin/0.2.1/aws-ecs-deploy-jenkins-plugin-0.2.1.hpi",
+      "releaseTimestamp": "2017-01-11T12:45:38.00Z",
+      "buildDate": "Jan 11, 2017",
+      "version": "0.2.1",
+      "title": "AWS Elastic Container Service deployment plugin",
+      "wiki": "https://github.com/zeroturnaround/aws-ecs-deploy-jenkins-plugin",
+      "name": "aws-ecs-deploy",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "token-macro",
+          "version": "1.5.1",
+          "optional": false
+        },
+        {
+          "name": "aws-java-sdk",
+          "version": "1.11.68",
+          "optional": false
+        },
+        {
+          "name": "credentials",
+          "version": "1.21",
+          "optional": false
+        },
+        {
+          "name": "aws-credentials",
+          "version": "1.16",
+          "optional": false
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "bsideup",
+          "email": "bsideup@gmail.com",
+          "name": "Sergei Egorov"
+        }
+      ]
+    },
     "build-name-setter": {
       "excerpt": "",
       "url": "https://jitpack.io/com/github/jenkinsci/build-name-setter-plugin/build-name-setter-1.6.5/build-name-setter-plugin-build-name-setter-1.6.5.hpi",
