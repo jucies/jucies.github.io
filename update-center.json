@@ -236,6 +236,43 @@ updateCenter.post(
         }
       ]
     },
+    "github-status-jacoco-coverage": {
+      "excerpt": "",
+      "url": "https://jitpack.io/com/github/lanwen/github-status-jacoco-coverage-jenkins-plugin/v1.0.1/github-status-jacoco-coverage-jenkins-plugin-v1.0.1.hpi",
+      "releaseTimestamp": "2017-02-09T13:31:22.00Z",
+      "buildDate": "Feb 09, 2017",
+      "version": "1.0.1",
+      "title": "Coverage reporter",
+      "wiki": "https://github.yandex-team.ru/testpers",
+      "requiredCore": "1.609",
+      "builtBy": "jitpack",
+      "name": "github-status-jacoco-coverage",
+      "group": "org.jenkins-ci.plugins",
+      "dependencies": [
+        {
+          "name": "github",
+          "version": "1.25.1",
+          "optional": true
+        },
+        {
+          "name": "jacoco",
+          "version": "2.1.0",
+          "optional": false
+        },
+        {
+          "name": "matrix-project",
+          "version": "1.4.1",
+          "optional": true
+        }
+      ],
+      "developers": [
+        {
+          "developerId": "lanwen",
+          "email": "lanwen@yandex-team.ru",
+          "name": "Merkushev Kirill"
+        }
+      ]
+    },
     "javadoc": {
       "excerpt": "",
       "url": "https://jitpack.io/com/github/jenkinsci/javadoc-plugin/9f9f795ae0/javadoc-plugin-9f9f795ae0.hpi",
