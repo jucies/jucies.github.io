@@ -77,10 +77,10 @@ updateCenter.post(
     },
     "buildgraph-view": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/jenkinsci/buildgraph-view/buildgraph-view-1.5/buildgraph-view-buildgraph-view-1.5.hpi",
-      "releaseTimestamp": "2017-01-23T02:25:56.00Z",
-      "buildDate": "Jan 23, 2017",
-      "version": "1.5",
+      "url": "https://jitpack.io/com/github/jenkinsci/buildgraph-view/buildgraph-view-1.5.1/buildgraph-view-buildgraph-view-1.5.1.hpi",
+      "releaseTimestamp": "2017-02-18T04:16:46.00Z",
+      "buildDate": "Feb 18, 2017",
+      "version": "1.5.1",
       "title": "buildgraph-view",
       "wiki": "https://wiki.jenkins-ci.org/display/JENKINS/Build+Graph+View+Plugin",
       "requiredCore": "1.651.3",
@@ -89,16 +89,6 @@ updateCenter.post(
       "group": "org.jenkins-ci.plugins",
       "dependencies": [
         {
-          "name": "parameterized-trigger",
-          "version": "2.18",
-          "optional": false
-        },
-        {
-          "name": "promoted-builds",
-          "version": "2.17",
-          "optional": false
-        },
-        {
           "name": "build-flow-plugin",
           "version": "0.19",
           "optional": false
@@ -106,6 +96,16 @@ updateCenter.post(
         {
           "name": "matrix-project",
           "version": "1.0",
+          "optional": false
+        },
+        {
+          "name": "parameterized-trigger",
+          "version": "2.18",
+          "optional": false
+        },
+        {
+          "name": "promoted-builds",
+          "version": "2.17",
           "optional": false
         }
       ],
