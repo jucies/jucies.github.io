@@ -448,13 +448,13 @@ updateCenter.post(
     },
     "yet-another-docker": {
       "excerpt": "",
-      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc31/yet-another-docker-plugin-0.1.0-rc31.hpi",
-      "releaseTimestamp": "2017-02-10T01:27:58.00Z",
-      "buildDate": "Feb 10, 2017",
-      "version": "0.1.0-rc31",
+      "url": "https://jitpack.io/com/github/KostyaSha/yet-another-docker-plugin/yet-another-docker-plugin/0.1.0-rc33/yet-another-docker-plugin-0.1.0-rc33.hpi",
+      "releaseTimestamp": "2017-03-09T12:37:08.00Z",
+      "buildDate": "Mar 09, 2017",
+      "version": "0.1.0-rc33",
       "title": "Yet Another Docker Plugin",
       "wiki": "http://wiki.jenkins-ci.org/display/JENKINS/Yet+Another+Docker+Plugin",
-      "requiredCore": "1.625.3",
+      "requiredCore": "2.19.4",
       "builtBy": "jitpack",
       "name": "yet-another-docker",
       "group": "com.github.kostyasha.yet-another-docker",
@@ -465,13 +465,13 @@ updateCenter.post(
           "optional": false
         },
         {
-          "name": "jucies",
-          "version": "0.2.0",
-          "optional": true
+          "name": "cloud-stats",
+          "version": "0.7",
+          "optional": false
         },
         {
-          "name": "cloud-stats",
-          "version": "0.5",
+          "name": "credentials",
+          "version": "2.1.3",
           "optional": false
         },
         {
@@ -480,14 +480,14 @@ updateCenter.post(
           "optional": false
         },
         {
-          "name": "ssh-slaves",
-          "version": "1.10",
-          "optional": false
-        },
-        {
           "name": "durable-task",
           "version": "1.3",
           "optional": false
+        },
+        {
+          "name": "jucies",
+          "version": "0.2.0",
+          "optional": true
         },
         {
           "name": "ssh-credentials",
@@ -495,8 +495,8 @@ updateCenter.post(
           "optional": true
         },
         {
-          "name": "credentials",
-          "version": "2.1.3",
+          "name": "ssh-slaves",
+          "version": "1.10",
           "optional": false
         }
       ],
